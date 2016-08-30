@@ -1,0 +1,2 @@
+Write(‘I am virus’);
+Sleep(1000);
